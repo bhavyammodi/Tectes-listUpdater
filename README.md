@@ -1,6 +1,6 @@
 # Tectes-listUpdater
 Main is showing the Usage.
-This is an implementation of List Updater where we have either a value or a formula in every object.
+This is an implementation of List Updater where we have either a value or a formula in every object. It is a basic version of formulas used in **Microsoft Excel**.
 
 Example of a list
 <table>
@@ -39,4 +39,4 @@ Explanation: cell(x) gives the value at index 9,
 update() can be used to update any cell.
 ```
 
-Used Depth First Search Data structure to implement it (both forward and reverse).
+Used **Depth First Search** Data structure to implement it (both forward and reverse).
